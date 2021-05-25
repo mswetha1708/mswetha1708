@@ -28,6 +28,7 @@
 <a href="https://www.linkedin.com/in/swetha-m-1708/" target="blank"><img align="center" src="./images/iconfinder_BW_Linkedin_glyph_svg_5305157.png" alt="Linkedin profile" height="40" width="40" /></a>
 <a href="https://github.com/mswetha1708" target="blank"><img align="center" src="./images/iconfinder_github_317712.png" alt="Github Profile" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/mswetha1708" target="blank"><img align="center" src="./images/iconfinder_160_Hackerrank_logo_logos_4373713.png" alt="Hackerrank Profile" height="40" width="40" /></a>
+<a href="https://www.codechef.com/users/mswetha1708" target="blank"><img align="center" src="./images/codechef.png" alt="Hackerrank Profile" height="40" width="40" /></a>
 
 <!--
 **mswetha1708/mswetha1708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
