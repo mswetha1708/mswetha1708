@@ -1,4 +1,4 @@
-<h1 align = 'center'> Hi 👋, I'm M Swetha  </h1>
+<h1 align = 'center'> Hi 👋, I'm Swetha Mohan </h1>
 <img align='right' src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" width="250" alt = "Girl typing">
 
 - 👩‍🎓 MS CS student at Arizona State University. 
