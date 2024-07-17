@@ -1,7 +1,7 @@
 <h1 align = 'center'> Hi 👋, I'm M Swetha  </h1>
 <img align='right' src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" width="250" alt = "Girl typing">
 
-- 👩‍🎓 Final year computer Science engineering student at IIITDM Kancheepuram.
+- 👩‍🎓 MS CS student at Arizona State University. 
 
 - 😍 competitive programmer. 
 
@@ -9,7 +9,9 @@
 
 - 📚 curious student who loves learning new technologies.
 
-- 👀 Looking for software development roles.
+- 👩‍💻 SWE with 2 years of experience.
+  
+- 👀 Looking for SWE/AI/ML roles.
 
 <h2> ⚡ Tools and Technology </h2>
 <a href="https://en.wikipedia.org/wiki/HTML" target="blank"><img align="center" src="./images/iconfinder_html5_294678.png" alt="HTML" height="50" width="50" /></a>
